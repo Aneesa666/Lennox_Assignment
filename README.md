@@ -8,7 +8,7 @@ Below are steps to run the project.
 
 1. Clone the repo.
 ```
-git clone https://github.com/Aneesa666/Lennox_Test.git
+git clone https://github.com/Aneesa666/Lennox_Assignment.git
 ```
 
 2. Run Test using below commands.
